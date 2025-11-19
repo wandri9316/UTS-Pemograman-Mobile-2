@@ -12,10 +12,10 @@ TAMPILAN SPLASH
 <img width="1366" height="733" alt="spashapk" src="https://github.com/user-attachments/assets/dba5120d-9b68-4b60-86f8-3aa28cae7fbf" />
 
 TAMPILAN HOME
-<img width="1362" height="648" alt="Screenshot 2025-11-19 144746" src="https://github.com/user-attachments/assets/34c123ea-7b59-45c6-99d5-ba85ba2ec940" />
+<img width="1366" height="650" alt="HOMES" src="https://github.com/user-attachments/assets/c34576de-d267-481a-ad1f-547e51d400a0" />
 
 TAMPILAN FAVORITE
-<img width="1365" height="656" alt="Screenshot 2025-11-19 144827" src="https://github.com/user-attachments/assets/40b69f9b-c772-476f-a577-4f7b22786078" />
+<img width="1366" height="649" alt="FAVORITES" src="https://github.com/user-attachments/assets/f62fd1f5-eaa2-47e5-a77a-f490283c8135" />
 
 LINK GOOGLE DRIVE: 
 https://drive.google.com/drive/folders/1xmr_TXONBM_VGfTypruk5VjhaKdgUVqp?usp=sharing
